@@ -1,15 +1,28 @@
-# MachineLearningIIT
+# Machine Learning IIT
 
-20539425 ANDRES GHERSI SAYAN - PROJECT RESULTS PRESENTATION
+This repository presents the results of the term project for Prediction of Stock Market Movement using Recurrent Neural Networks.
+
+## Project Results Presentation
+
+Student: 20539425 ANDRES GHERSI SAYAN
 
 Link to Repository: https://github.com/aghersisayan/MachineLearningIIT
 
-Dataset: AMZN_data_1999_2022.csv
-
-PPT:Amazon.com stock market movement forecasting using Logistic Regression.pdf
+```python
+Presentation: AGhersiPresentation.pdf
+Report: ProjectResultsPresentation.pdf
 
 Benchmark: LSTM_from_Literature.ipynb
-
 Own solution: LogisticRegression.ipynb
+Dataset: AMZN_data_1999_2022.csv
 
-Report: PROJECT RESULTS PRESENTATION.pdf
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
